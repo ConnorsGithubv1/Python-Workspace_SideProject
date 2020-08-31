@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Animation_etc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Charley" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aim-Trainer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bellyofthebeast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py-race" vcs="Git" />
+  </component>
+</project>
